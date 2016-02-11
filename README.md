@@ -6,7 +6,7 @@ https://play.google.com/store/apps/details?id=org.example.rockbusters
 
 main:
 -------------------------------------
-![main](https://github.com/vichou/android-rockbusters/raw/master/screenshots/main.png)
+![menu](https://github.com/vichou/android-rockbusters/raw/master/screenshots/menu.png)
 
 question:
 -------------------------------------
